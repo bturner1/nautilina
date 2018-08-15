@@ -5,12 +5,12 @@
    <sup><a href="http://www.orcandenizcilik.com/hidrografi-ctd-olcumleri.php">source</a></sup>
 </p>
 
-Provider is the one with data, computing power or both that wants to offer it on Ocean. 
+A provider is the one with data, computing power or both that wants to offer it on Ocean. 
 Toy example 5) "Argosy" (_large trading vessels commonly built in the Ragusea regions of Dalmatia and Venice during the late 17th century_)) - hmm, life is too easy on Ocean so let's complicate stuff! Put computing instance plus some data and don't reveal (all of the) data to the consumer! Wow, now we are talking...
 
-The first part of the tutorial will prepare a simple Flask app that will have data, and offer computing power. 
+The first part of the tutorial will prepare a simple Flask app that will have data and offer computing power. 
 
-## Flask app as compute+data instance
+## Flask app as a compute+data instance
 
 We decided to take a little Flask app from [here](https://medium.com/@dvelsner/deploying-a-simple-machine-learning-model-in-a-modern-web-application-flask-angular-docker-a657db075280) and add it to our Ocean!
 
@@ -18,7 +18,7 @@ We decided to take a little Flask app from [here](https://medium.com/@dvelsner/d
 
 First fork or clone the Flask repo e.g. `https://github.com/oceanprotocol/nautilina.git`
  
-After cloning the repository go inside the project folder:
+After cloning the repository go into the project folder:
 `cd toyexample5`
 
 Run `docker-compose up` which will start a Flask web application for the backend API (default port `8081`) and an Angular frontend served through a webpack development web server (default port `4200`).
@@ -37,13 +37,13 @@ Navigate inside the frontend directory: `cd frontend`
 Assure you have [Nodejs](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/en/docs/install) and the [angular-cli](https://cli.angular.io/) installed.
 Install npm dependencies: `yarn install --pure-lockfile` 
 Run `yarn start` in frontend root (will watch files and restart dev-server on port `4200` on change).
-All calls made to `/api` will be proxied to backend server (default port for backend `8081`), this can be changed in `proxy.conf.json`.
+All calls made to `/api` will be proxied to the backend server (default port for backend `8081`), this can be changed in `proxy.conf.json`.
 
 ## Publish Flask app on Ocean
 
-Try using [Pleuston](https://github.com/oceanprotocol/pleuston) and publish your Flask app! Don't forget that you do have to host your app and that Ocean serves as marketplace:
+Try using [Pleuston](https://github.com/oceanprotocol/pleuston) and publish your Flask app! Don't forget that you do have to host your app and that Ocean serves as a marketplace:
 <p align="center">
-  <img width="500" src="https://github.com/oceanprotocol/nautilina/blob/develop/imgs/publish_compute.png" />
+  <img width="500" src="https://github.com/oceanprotocol/nautilina/blob/master/imgs/publish_compute.png" />
 </p>
 And that is it! :)
 
