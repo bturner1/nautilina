@@ -5,9 +5,9 @@
    <sup><a href="https://www.gifbay.com/gif/pirate_bay_here_i_come-27420/">source</a></sup>
 </p>
 
-Consumer is the one that wants something from the Ocean. "Captain" wants more than just data. Always looking for more. He want computing instance with some data in it!
+A consumer is the one that wants something from the Ocean. "Captain" wants more than just data. Always looking for more. He wants computing instance with some data in it!
 
-Firstly, get the compute+data instance from [Pleuston](https://github.com/oceanprotocol/pleuston). If you are real hard-core data scientists that eats and sleeps Python, then please do the following commands to interface with Ocean. First, run [provider backend](https://github.com/oceanprotocol/provider-backend). Then, in Python:
+Firstly, get the compute+data instance from [Pleuston](https://github.com/oceanprotocol/pleuston). If you are really hard-core data scientists that eats and sleeps Python, then please do the following commands to interface with Ocean. First, run [provider backend](https://github.com/oceanprotocol/provider-backend). Then, in Python:
 ```python
 import wget
 from ocean_web3.consumer import register2,consume
@@ -33,12 +33,12 @@ The current state of your model is constantly updated and stored in a model.pkl 
 
 ![output](https://user-images.githubusercontent.com/15385040/44090861-e52322b6-9fcb-11e8-9a0b-f5d8dcdd2cf0.gif)
 
-In this toy example, user is not allowed to see the data being used i.e. the provider has protected their data. In other instances, the provider could allow the download of sample data set.
+In this toy example, a user is not allowed to see the data being used i.e. the provider has protected their data. In other instances, the provider could allow the download of the sample data set.
 
 ### Outlook
 
 Integrating [Fitchain](https://fitchain.io/) will enable on-premise training on sensitive data in secure enclaves. 
-Also, we are working on integrating other well known data science tools. 
+Also, we are working on integrating other well-known data science tools. 
 
 ## Contributing
 
