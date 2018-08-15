@@ -5,12 +5,12 @@
    <sup><a href="https://imgur.com/gallery/Rc7ERt6">source</a></sup>
 </p>
 
-Provider is the one with data, computing power or both that wants to offer it on Ocean. 
-Toy example 4) "Schooner" (_A schooner /ˈskuːnər/ is a type of sailing vessel with fore-and-aft sails on two or more masts, and was popular for some tradeing routes in Pacific!_) - let's put some precious cargo/data (without computing instance) on Ocean and let it float.
+A provider is the one with data, computing power or both that wants to offer it on Ocean. 
+Toy example 4) "Schooner" (_A schooner /ˈskuːnər/ is a type of sailing vessel with fore-and-aft sails on two or more masts, and was popular for some trading routes in Pacific!_) - let's put some precious cargo/data (without computing instance) on Ocean and let it float.
 
-Try using [Pleuston](https://github.com/oceanprotocol/pleuston) and publish an asset! Don't forget that you do have to host your data and that Ocean serves as marketplace:
+Try using [Pleuston](https://github.com/oceanprotocol/pleuston) and publish an asset! Don't forget that you do have to host your data and that Ocean serves as a marketplace:
 <p align="center">
-  <img width="500" src="https://github.com/oceanprotocol/plankton-datascience/blob/pleuston/flask/imgs/publish_assets.png" />
+  <img width="500" src="https://github.com/oceanprotocol/plankton-datascience/blob/master/imgs/publish_assets.png" />
 </p>
  
 
