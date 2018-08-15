@@ -9,12 +9,12 @@
 
 Click firstly on one of the preexisting accounts:
 <p align="center">
-  <img width="600" src="https://github.com/oceanprotocol/plankton-datascience/blob/master/imgs/accounts.png" />
+  <img width="600" src="https://github.com/oceanprotocol/nautilina/blob/master/imgs/accounts.png" />
 </p>
 
 Then, click on the data set you want to consume! If there are none, hey, feel free to register an asset! :)
 <p align="center">
-  <img width="600" src="https://github.com/oceanprotocol/plankton-datascience/blob/master/imgs/toyexample2.png" />
+  <img width="600" src="https://github.com/oceanprotocol/nautilina/blob/master/imgs/toyexample2.png" />
 </p>
 
 ## Contributing
