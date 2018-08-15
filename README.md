@@ -15,12 +15,12 @@ The purpose of this repo is to show you how to use Ocean by giving several tutor
 
 You can sail the Ocean with Nautilina in your pocket as a provider or a consumer:
 - **Consumer** is the one that wants something from the Ocean. Just like pirates so lets name each example as pirate ship crew member! (Don't worry, no Pirate has been harmed. Yet.)
-  - [**Toy example 1) "Cabin Boy"**](https://github.com/oceanprotocol/nautilina/tree/develop/toyexample1) just wants to get some data from Ocean by using a one or two lines of code in Python. Make life simple for the Cabin boy!
-  - [**Toy example 2) "First Mate"**](https://github.com/oceanprotocol/nautilina/tree/develop/toyexample2) yells "just gimme some simple assets, arrrrgh" or something like that and then downloads the data. First mate is a bit fancier than Cabin boy and that is why he uses Pleuston, a web front-end. 
-  - [**Toy example 3) "Captain"**](https://github.com/oceanprotocol/nautilina/tree/develop/toyexample3) wants more than just data. Always looking for more. He wants computing instance with some data in it!
+  - [**Toy example 1) "Cabin Boy"**](https://github.com/oceanprotocol/nautilina/tree/master/toyexample1) just wants to get some data from Ocean by using a one or two lines of code in Python. Make life simple for the Cabin boy!
+  - [**Toy example 2) "First Mate"**](https://github.com/oceanprotocol/nautilina/tree/master/toyexample2) yells "just gimme some simple assets, arrrrgh" or something like that and then downloads the data. First mate is a bit fancier than Cabin boy and that is why he uses Pleuston, a web front-end. 
+  - [**Toy example 3) "Captain"**](https://github.com/oceanprotocol/nautilina/tree/master/toyexample3) wants more than just data. Always looking for more. He wants computing instance with some data in it!
 - **Provider** is the one with lots of stuff, data, computing power, the one who, long before Ocean, used to get pillaged and plundered. Since ships are used to carry goods, let's name our examples as ship types and let's make those ship from the same era as pirates ;):
-  - [**Toy example 4) "Schooner"**](https://github.com/oceanprotocol/nautilina/tree/develop/toyexample4) (_A schooner /ˈskuːnər/ is a type of sailing vessel with fore-and-aft sails on two or more masts, and was popular for some tradeing routes in Pacific!_) - let's put some precious cargo/data on Ocean and let it float.
-  - [**Toy example 5) "Argosy"**](https://github.com/oceanprotocol/nautilina/tree/develop/toyexample5) (_large trading vessels commonly built in the Ragusea regions of Dalmatia and Venice during the late 17th century_)) - hmm, life is too easy on Ocean so let's complicate stuff! Put computing instance plus some data and don't reveal (all of the) data to the consumer! Wow, now we are talking... 
+  - [**Toy example 4) "Schooner"**](https://github.com/oceanprotocol/nautilina/tree/master/toyexample4) (_A schooner /ˈskuːnər/ is a type of sailing vessel with fore-and-aft sails on two or more masts, and was popular for some tradeing routes in Pacific!_) - let's put some precious cargo/data on Ocean and let it float.
+  - [**Toy example 5) "Argosy"**](https://github.com/oceanprotocol/nautilina/tree/master/toyexample5) (_large trading vessels commonly built in the Ragusea regions of Dalmatia and Venice during the late 17th century_)) - hmm, life is too easy on Ocean so let's complicate stuff! Put computing instance plus some data and don't reveal (all of the) data to the consumer! Wow, now we are talking... 
 
 ### Contributing
 
