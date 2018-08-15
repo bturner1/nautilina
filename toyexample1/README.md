@@ -5,12 +5,12 @@
 
 <h1 align='center'> Toy example 1) "Cabin boy"</h1>
 
-Consumer is the one that wants something from the Ocean. Toy example 1) "Cabin boy" just wants to get some data from Ocean by using one or two lines of code in Python. Make Cabin boy life simple.
+A consumer is the one that wants something from the Ocean. Toy example 1) "Cabin boy" just wants to get some data from Ocean by using one or two lines of code in Python. Make Cabin boy life simple.
 
-First we have to obtain an ID of any asset on the Ocean. 
+First, we have to obtain an ID of an asset on the Ocean. 
 If you already know the ID, you can skip the following section. 
 #### Registering the data
-If you don't know how, lets do it for you for a simple data asset. First, run [provider backend](https://github.com/oceanprotocol/provider-backend). Let's assume local install.
+If you don't know how, let's do it for you for a simple data asset. First, run [provider backend](https://github.com/oceanprotocol/provider-backend). Let's assume local install.
 ```python
 import wget
 from ocean_web3.consumer import register1,consume
@@ -19,9 +19,8 @@ ID=register1()
 If you use _register1()_ function, ID will be of Boston housing data set (https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html).
 
 #### Downloading the data
-Consuming this resource means getting a temporary URL where you will be able to download data. How to download it using Python and just a couple of lines of code?
+Consuming this resource means getting a temporary URL where you will be able to download data. How to download it using Python and just one line of code?
 ```python
-import wget
 wget.download(consume(ID))
 ```
 _ocean_web3_ is the library you need to interact with Ocean in this simple way. 
