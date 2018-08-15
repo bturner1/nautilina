@@ -43,7 +43,7 @@ All calls made to `/api` will be proxied to the backend server (default port for
 
 Try using [Pleuston](https://github.com/oceanprotocol/pleuston) and publish your Flask app! Don't forget that you do have to host your app and that Ocean serves as a marketplace:
 <p align="center">
-  <img width="500" src="https://github.com/oceanprotocol/nautilina/blob/master/publish_compute.png" />
+  <img width="500" src="https://github.com/oceanprotocol/nautilina/blob/master/imgs/publish_compute.png" />
 </p>
 And that is it! :)
 
