@@ -10,7 +10,7 @@ Toy example 4) "Schooner" (_A schooner /ˈskuːnər/ is a type of sailing vessel
 
 Try using [Pleuston](https://github.com/oceanprotocol/pleuston) and publish an asset! Don't forget that you do have to host your data and that Ocean serves as a marketplace:
 <p align="center">
-  <img width="500" src="https://github.com/oceanprotocol/plankton-datascience/blob/master/imgs/publish_assets.png" />
+  <img width="500" src="https://github.com/oceanprotocol/nautilina/blob/master/imgs/publish_assets.png" />
 </p>
  
 
