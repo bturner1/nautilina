@@ -6,6 +6,12 @@
 
 > _The Nautilina is the last suborder of the Nautilida and the only nautiloids living since the end of the Triassic._ The name has nothing to do with data science, we just like names like that here at Ocean. Because we do. Yes. Stop reading this. Move on. Please. Pretty please.
 
+---
+
+**🐲🦑 THERE BE DRAGONS AND SQUIDS. This is in alpha state and you can expect running into problems. If you run into them, please open up [a new issue](https://github.com/oceanprotocol/pleuston/issues). 🦑🐲**
+
+---
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/6178597/41625184-37cf5e4c-7418-11e8-81c2-f779e5f7ee8b.gif" width="420" />
   <img src="https://user-images.githubusercontent.com/15385040/44090861-e52322b6-9fcb-11e8-9a0b-f5d8dcdd2cf0.gif" width="420" /> 
