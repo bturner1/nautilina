@@ -1,3 +1,18 @@
+# Defunct
+
+The examples in this repository are old and defunt. Check out the [mantaray repository](https://github.com/oceanprotocol/mantaray) instead.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 [![banner](https://raw.githubusercontent.com/oceanprotocol/art/master/github/repo-banner%402x.png)](https://oceanprotocol.com)
 
 <h1 align='center'> Nautilina</h1>
