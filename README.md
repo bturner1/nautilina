@@ -1,6 +1,6 @@
-# Defunct
+# Superceded!
 
-The examples in this repository are old and defunt. Check out the [mantaray repository](https://github.com/oceanprotocol/mantaray) instead.
+The examples in this repository are obsolete. Check out the [mantaray repository](https://github.com/oceanprotocol/mantaray) instead! 
 
 <br>
 <br>
